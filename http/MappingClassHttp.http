@@ -1,0 +1,19 @@
+###
+GET http://localhost:8080/mapping/users
+
+###
+POST http://localhost:8080/mapping/users
+
+###
+GET http://localhost:8080/mapping/users/test
+
+###
+PATCH http://localhost:8080/mapping/users/test
+
+###
+PATCH http://localhost:8080/mapping/users/test
+
+###
+DELETE http://localhost:8080/mapping/users/test
+
+
